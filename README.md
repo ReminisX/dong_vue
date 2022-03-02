@@ -1,4 +1,4 @@
-# ocr-app
+# dong_vue
 
 ## Project setup
 ```
